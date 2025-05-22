@@ -36,7 +36,7 @@
           <mxGeometry x="160" y="430" width="120" height="40" as="geometry" />
         </mxCell>
         <mxCell id="WIyWlLk6GJQsqaUBKTNV-12" value="Replace Bulb" style="rounded=1;whiteSpace=wrap;html=1;fontSize=12;glass=0;strokeWidth=1;shadow=0;" parent="WIyWlLk6GJQsqaUBKTNV-1" vertex="1">
-          <mxGeometry x="320" y="310" width="120" height="40" as="geometry" />
+          <mxGeometry x="160" y="350" width="120" height="40" as="geometry" />
         </mxCell>
         <mxCell id="e84Vniu_WTU0UHc3I9zg-7" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="WIyWlLk6GJQsqaUBKTNV-1" source="e84Vniu_WTU0UHc3I9zg-0">
           <mxGeometry relative="1" as="geometry">
@@ -51,6 +51,9 @@
         </mxCell>
         <mxCell id="e84Vniu_WTU0UHc3I9zg-8" value="训练GP模型" style="rounded=1;whiteSpace=wrap;html=1;fontSize=12;glass=0;strokeWidth=1;shadow=0;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
           <mxGeometry x="160" y="170" width="120" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="e84Vniu_WTU0UHc3I9zg-14" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="WIyWlLk6GJQsqaUBKTNV-1" source="e84Vniu_WTU0UHc3I9zg-9" target="e84Vniu_WTU0UHc3I9zg-13">
+          <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="e84Vniu_WTU0UHc3I9zg-9" value="GP模型推理" style="rounded=1;whiteSpace=wrap;html=1;fontSize=12;glass=0;strokeWidth=1;shadow=0;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
           <mxGeometry x="160" y="230" width="120" height="40" as="geometry" />
